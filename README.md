@@ -7,6 +7,8 @@ Package nécessaire:
 	openmpi-common
 	mpi-default-dev
 
+Il est nessaire d'executer la commande 'make install'.
+
 -------------------- Exécution -----------------------------
 
 Il suffit ensuite d'exécuter un simple 'make' puis 'make exec'

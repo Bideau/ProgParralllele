@@ -15,3 +15,7 @@ clean:
 	$(RM) ./result/*
 	$(RM) ./bin/*
 
+install:
+	mkdir ./result
+	mkdir ./bin
+
